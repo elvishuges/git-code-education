@@ -1,2 +1,3 @@
 funcionalidade 1 texto
 corrigindo funcionalidades1
+Moodificações novas em funcionalidade 1
